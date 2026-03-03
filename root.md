@@ -1,4 +1,4 @@
 layout: page
-title: "Home"
+title: Home
 permalink: /
 # Welcome to this page
