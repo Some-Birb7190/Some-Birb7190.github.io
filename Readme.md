@@ -1,1 +1,1 @@
-This template is taken from a template website, [here](https://www.tooplate.com/view/2117-infinite-loop)
+This template is taken from a template website, [here](https://www.tooplate.com/view/2106-soft-landing)
