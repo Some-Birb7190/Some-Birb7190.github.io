@@ -1,3 +1,5 @@
 # A list of references used
 1. Grier, C L (2026). "What Percentage Of Biodiversity Live In Forests?". Available [here](https://www.unep-wcmc.org/en/news/earths-biodiversity-depends-on-the-worlds-forests)
-2. 
+2. Falla, A (2024). "Catastrophic 73% decline in the average size of global wildlife populations in just 50 years reveals a ‘system in peril’". Available [here](https://www.worldwildlife.org/news/press-releases/catastrophic-73-decline-in-the-average-size-of-global-wildlife-populations-in-just-50-years-reveals-a-system-in-peril/)
+3. Bala, G. “Can Planting New Trees Help to Reduce Global Warming?” Current Science, vol. 106, no. 12, 2014, pp. 1623–24. Available [here](https://www.jstor.org/stable/24102985)
+4. National geographic. "Climate change". Available [here](https://education.nationalgeographic.org/resource/climate-change/)
