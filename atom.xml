@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Birbsite</title>
+    <subtitle>A collection of silly things</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://Some-Birb7190.github.io/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://Some-Birb7190.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2026-11-04T00:00:00+00:00</updated>
+    <id>https://Some-Birb7190.github.io/atom.xml</id>
+    <entry xml:lang="en">
+        <title>About</title>
+        <published>2026-10-22T00:00:00+00:00</published>
+        <updated>2026-11-04T00:00:00+00:00</updated>
+        
+        <author>
+          <name>eden</name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://Some-Birb7190.github.io/about/"/>
+        <id>https://Some-Birb7190.github.io/about/</id>
+        
+        <content type="html" xml:base="https://Some-Birb7190.github.io/about/">&lt;p&gt;I am a human being (I think) that likes to do silly things with computers, which occaisonally involves writing code and problem solving. I mostly do things for other people rather than for myself, but there are a few &lt;a href=&quot;/projects/&quot;&gt;projects&lt;/a&gt; I have done for my own pleasure and I enjoyed writing. I have around eight years of programming and computer knowledge behind me, and while I will never say I am good at anything I do, I enjoy it which is what matters to me.&lt;/p&gt;
+&lt;h2 id=&quot;the-history&quot;&gt;The history&lt;/h2&gt;
+&lt;p&gt;It all started during Covid, when I had far too much time on my hands, and was stuck finding something to do. I made a friend at the time who got me into various computer stuff and programming, and I was able to get my hands on the old family computer. Despite only having 2GB of ram and an intel Q8300, it ran Ubuntu server surprisingly well, and with the help of that same friend a website was promptly written and hosted. The more I worked with it, the more I enjoyed doing silly little things, and the more tools I could host for my time at college. Having a VPN to my house where I could access my files, and also evade an (unreasonably) strict firewall was a fantastic convenience. This friend had a domain so, I could leech off of that as a subdomain and put all of my things under that.&lt;br /&gt;
+I was learning how to use Docker, and how to interact with a terminal and maintain uptime, etc, until it all broke very quickly. A thunder storm came by our area at the tail end of 2021, and after a strike a surge took out the power supply to this server, and it was dead. Which was partially not surprising but it really did kill the motivation to work with it. And for a month or two, that&#39;s how it sat.&lt;br /&gt;
+A family friend was selling two pc towers (with parts) for cheap, and we got a discount on both of them, one of which became the Frankenstein&#39;s monster of parts that I ended up &#39;bodging&#39; together to make another, slightly more powerful, server.&lt;br /&gt;
+And the project as a whole kept growing, from there it became useful while I was living at home, and also it became an extremely powerful tool in my second year of college.&lt;br /&gt;
+On top of this I also had three remote servers with Oracle on their free tier. Two zero compute instances and an ARM instance was provided for free, which came in very handy at remote site hosting, and reverse proxying so my house was not directly exposed through a DNS. It became quite a thing to manage, and for a period of time I was exactly where I wanted to be, managing these systems purely for my own pleasure.&lt;/p&gt;
+&lt;h2 id=&quot;the-now&quot;&gt;The now&lt;/h2&gt;
+&lt;p&gt;Since I moved away for various things, and as life started to happen, it became impractical to maintain. Not only was it expensive to keep running 24/7, but managing uptime while I was not right next to it started to become a chore, rather than a hobby. It was shut down and for a while it was completely quiet on the front of my internet presence.&lt;br /&gt;
+But I finally got the motivation to get &lt;em&gt;something&lt;/em&gt; back up and remembered that Github pages exists, meaning I wouldn&#39;t have to worry (as much) about uptime.&lt;br /&gt;
+Which brings us pretty much up to date with everything this website contains. I doubt there will be much added in the future, but you never know.&lt;/p&gt;
+&lt;h2 id=&quot;the-future&quot;&gt;The future&lt;/h2&gt;
+&lt;p&gt;I don&#39;t necessarily have many plans moving forwards with what I do, I would like to get my home server back up and running, it had some useful tools on it that I would use internally in my house, as well as the VPN which would allow me to access my files from anywhere. However with the appearance of &lt;em&gt;a lot&lt;/em&gt; of vulnerabilities in recent years, I need to put in a lot more work to harden my set up, and make it a lot more resiliant to being public facing.
+As well as that I no longer have access to any kind of remote server, as they were shut down some years ago and my account has been removed. Consequently, I have no reverse proxy for the tools I want to host, and don&#39;t have the funds for any kind of paid cloud hosting, so a serious think about how I want to go about that is in order.&lt;/p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Keele Trees</title>
+        <published>2025-03-09T00:00:00+00:00</published>
+        <updated>2025-03-09T00:00:00+00:00</updated>
+        
+        <author>
+          <name>eden</name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://Some-Birb7190.github.io/projects/keele-trees/"/>
+        <id>https://Some-Birb7190.github.io/projects/keele-trees/</id>
+        
+        <content type="html" xml:base="https://Some-Birb7190.github.io/projects/keele-trees/">&lt;p&gt;This was just an extremely simple website to add some more depth to a project regarding sustainability.&lt;br /&gt;
+A link to it can be found &lt;a rel=&quot;external&quot; href=&quot;https://some-birb7190.github.io/project&quot;&gt;here&lt;/a&gt;&lt;br /&gt;
+While it doesn&#39;t exactly highlight the root issue, it was just meant as a informative piece, that could be thrown onto a qr code for a poster that was also made for the project.&lt;br /&gt;
+A bake sale was also conducted alongside the website, which raised some money for the charity mentioned in the site.&lt;/p&gt;
+</content>
+        
+    </entry>
+</feed>

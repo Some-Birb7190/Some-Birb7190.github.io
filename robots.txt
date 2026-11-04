@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: https://some-birb7190.github.io/sitemap.xml
+Sitemap: https://Some-Birb7190.github.io/sitemap.xml
